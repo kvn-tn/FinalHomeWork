@@ -20,3 +20,5 @@
 *Here is the place flowchart to be located.*
 
 ![](Flowchart.png)
+
+Это схематичное изображение программы.
